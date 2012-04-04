@@ -1,7 +1,9 @@
 KATA TDD: Kata Lonja
 EVO 1: Focused on TDD development process
 //TODO: EVO 2 Mocking Lonja & Invoice Class
-	
+
+Enunciado copiado de: https://github.com/12meses12katas/Mayo-KataLonja
+
 Esta codekata la diseñaron Agilismo.es con motivo del codingdojo celebrado durante la XGN 2011, en Santiago de Compostela, de ahí que esté basada en una metáfora relacionada con el pescado, aunque en realidad oculta otro problema bien distinto.
 
 En la lonja de un puerto pesquero gallego, un gallego emprendedor ha decidido comercializar pescado fresco gallego en otras ciudades de Europa, para ello va a comenzar con una pequeña furgoneta que es capaz de transportar hasta 200 Kg de pescado.
